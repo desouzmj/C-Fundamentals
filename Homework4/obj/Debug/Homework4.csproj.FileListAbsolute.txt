@@ -1,0 +1,6 @@
+C:\Source\deSouzaC-Fundamentals\Homework4\bin\Debug\Homework4.exe.config
+C:\Source\deSouzaC-Fundamentals\Homework4\bin\Debug\Homework4.exe
+C:\Source\deSouzaC-Fundamentals\Homework4\bin\Debug\Homework4.pdb
+C:\Source\deSouzaC-Fundamentals\Homework4\obj\Debug\Homework4.csprojResolveAssemblyReference.cache
+C:\Source\deSouzaC-Fundamentals\Homework4\obj\Debug\Homework4.exe
+C:\Source\deSouzaC-Fundamentals\Homework4\obj\Debug\Homework4.pdb
