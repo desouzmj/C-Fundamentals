@@ -1,0 +1,5 @@
+C:\Source\deSouzaC-Fundamentals\Homework6\bin\Debug\Homework6.exe.config
+C:\Source\deSouzaC-Fundamentals\Homework6\bin\Debug\Homework6.exe
+C:\Source\deSouzaC-Fundamentals\Homework6\bin\Debug\Homework6.pdb
+C:\Source\deSouzaC-Fundamentals\Homework6\obj\Debug\Homework6.exe
+C:\Source\deSouzaC-Fundamentals\Homework6\obj\Debug\Homework6.pdb
