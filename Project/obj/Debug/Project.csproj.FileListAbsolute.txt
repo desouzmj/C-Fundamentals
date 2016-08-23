@@ -1,0 +1,6 @@
+C:\Source\deSouzaC-Fundamentals\Project\bin\Debug\Project.exe.config
+C:\Source\deSouzaC-Fundamentals\Project\bin\Debug\Project.exe
+C:\Source\deSouzaC-Fundamentals\Project\bin\Debug\Project.pdb
+C:\Source\deSouzaC-Fundamentals\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Source\deSouzaC-Fundamentals\Project\obj\Debug\Project.exe
+C:\Source\deSouzaC-Fundamentals\Project\obj\Debug\Project.pdb
